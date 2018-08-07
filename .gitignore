@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+
+## .gitignore for intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+/*.log
+package-lock.json
